@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="edit_text_width">200sp</dimen>
+    <dimen name="role_text_width">170sp</dimen>
+    <dimen name="image_dimension_height">74sp</dimen>
+    <dimen name="image_dimension_width">80sp</dimen>
+    <dimen name="my_padding">2sp</dimen>
+    <dimen name="text3_dimension">12sp</dimen>
+    <dimen name="text2_dimension">15sp</dimen>
+    <dimen name="text1_dimension">25sp</dimen>
+    <dimen name="text_big_dimension">45sp</dimen>
+
+</resources>
